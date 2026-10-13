@@ -1,0 +1,20 @@
+TaskManagerTrace Start: 100 : START Session, OperationId=0c636e063ed6463fb178436c09e7e586
+    ProcessId=9900
+    ThreadId=1
+    DateTime=2026-10-13T14:50:12.4113321Z
+TaskManagerTrace Start: 100 : START LoadTasks, OperationId=70bfd20e3e7742d8a38e48eff146633e
+    ProcessId=9900
+    ThreadId=1
+    DateTime=2026-10-13T14:50:12.4794114Z
+TaskManagerTrace Stop: 101 : STOP LoadTasks, OperationId=70bfd20e3e7742d8a38e48eff146633e, Result=Success, ElapsedMs=5.055
+    ProcessId=9900
+    ThreadId=1
+    DateTime=2026-10-13T14:50:12.4862455Z
+TaskManagerTrace Start: 100 : START AddTask, OperationId=6f30ff5b93f249938e82e9472927c0ec
+    ProcessId=9900
+    ThreadId=1
+    DateTime=2026-10-13T14:50:37.7437319Z
+TaskManagerTrace Stop: 101 : STOP AddTask, OperationId=6f30ff5b93f249938e82e9472927c0ec, Result=Success, ElapsedMs=58.353
+    ProcessId=9900
+    ThreadId=1
+    DateTime=2026-10-13T14:50:37.8022370Z
